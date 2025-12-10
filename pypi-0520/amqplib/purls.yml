@@ -1,0 +1,9 @@
+- pkg:pypi/amqplib@0.1
+- pkg:pypi/amqplib@0.2
+- pkg:pypi/amqplib@0.3
+- pkg:pypi/amqplib@0.5
+- pkg:pypi/amqplib@0.6
+- pkg:pypi/amqplib@0.6.1
+- pkg:pypi/amqplib@1.0.0
+- pkg:pypi/amqplib@1.0.1
+- pkg:pypi/amqplib@1.0.2
