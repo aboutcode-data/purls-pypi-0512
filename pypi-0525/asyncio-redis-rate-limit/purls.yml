@@ -1,0 +1,5 @@
+- pkg:pypi/asyncio-redis-rate-limit@0.1.0
+- pkg:pypi/asyncio-redis-rate-limit@0.1.1
+- pkg:pypi/asyncio-redis-rate-limit@0.2.0
+- pkg:pypi/asyncio-redis-rate-limit@1.0.0
+- pkg:pypi/asyncio-redis-rate-limit@1.1.0
