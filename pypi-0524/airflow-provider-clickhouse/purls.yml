@@ -1,0 +1,2 @@
+- pkg:pypi/airflow-provider-clickhouse@1.0.0
+- pkg:pypi/airflow-provider-clickhouse@1.0.1
