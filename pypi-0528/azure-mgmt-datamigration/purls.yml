@@ -1,0 +1,14 @@
+- pkg:pypi/azure-mgmt-datamigration@0.1.0
+- pkg:pypi/azure-mgmt-datamigration@1.0.0
+- pkg:pypi/azure-mgmt-datamigration@10.0.0
+- pkg:pypi/azure-mgmt-datamigration@10.1.0
+- pkg:pypi/azure-mgmt-datamigration@10.1.0b1
+- pkg:pypi/azure-mgmt-datamigration@10.1.0b2
+- pkg:pypi/azure-mgmt-datamigration@2.0.0
+- pkg:pypi/azure-mgmt-datamigration@2.1.0
+- pkg:pypi/azure-mgmt-datamigration@2.2.0
+- pkg:pypi/azure-mgmt-datamigration@3.0.0
+- pkg:pypi/azure-mgmt-datamigration@4.0.0
+- pkg:pypi/azure-mgmt-datamigration@4.1.0
+- pkg:pypi/azure-mgmt-datamigration@9.0.0
+- pkg:pypi/azure-mgmt-datamigration@9.0.0b1

@@ -1,0 +1,16 @@
+- pkg:pypi/azure-mgmt-logic@0.30.0a1
+- pkg:pypi/azure-mgmt-logic@0.30.0rc1
+- pkg:pypi/azure-mgmt-logic@0.30.0rc2
+- pkg:pypi/azure-mgmt-logic@0.30.0rc3
+- pkg:pypi/azure-mgmt-logic@0.30.0rc4
+- pkg:pypi/azure-mgmt-logic@0.30.0rc5
+- pkg:pypi/azure-mgmt-logic@1.0.0
+- pkg:pypi/azure-mgmt-logic@10.0.0
+- pkg:pypi/azure-mgmt-logic@10.1.0b1
+- pkg:pypi/azure-mgmt-logic@2.0.0
+- pkg:pypi/azure-mgmt-logic@2.1.0
+- pkg:pypi/azure-mgmt-logic@3.0.0
+- pkg:pypi/azure-mgmt-logic@4.0.0rc1
+- pkg:pypi/azure-mgmt-logic@4.0.0rc2
+- pkg:pypi/azure-mgmt-logic@9.0.0
+- pkg:pypi/azure-mgmt-logic@9.0.0b1
