@@ -1,0 +1,4 @@
+- pkg:pypi/celery-with-mongodb@2.4
+- pkg:pypi/celery-with-mongodb@2.4.1
+- pkg:pypi/celery-with-mongodb@2.5
+- pkg:pypi/celery-with-mongodb@3.0

@@ -1,0 +1,4 @@
+- pkg:pypi/celery-sqlmodel-beat@0.1.4
+- pkg:pypi/celery-sqlmodel-beat@0.1.6
+- pkg:pypi/celery-sqlmodel-beat@0.1.7
+- pkg:pypi/celery-sqlmodel-beat@0.1.8
