@@ -1,0 +1,4 @@
+- pkg:pypi/bp.logging@0.1
+- pkg:pypi/bp.logging@0.2
+- pkg:pypi/bp.logging@0.2-dev
+- pkg:pypi/bp.logging@0.2.1
