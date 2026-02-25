@@ -41,6 +41,12 @@
 - pkg:pypi/anemoi-datasets@0.5.26
 - pkg:pypi/anemoi-datasets@0.5.27
 - pkg:pypi/anemoi-datasets@0.5.28
+- pkg:pypi/anemoi-datasets@0.5.29
+- pkg:pypi/anemoi-datasets@0.5.30
+- pkg:pypi/anemoi-datasets@0.5.31
+- pkg:pypi/anemoi-datasets@0.5.32
+- pkg:pypi/anemoi-datasets@0.5.33
+- pkg:pypi/anemoi-datasets@0.5.34
 - pkg:pypi/anemoi-datasets@0.5.5
 - pkg:pypi/anemoi-datasets@0.5.6
 - pkg:pypi/anemoi-datasets@0.5.7
