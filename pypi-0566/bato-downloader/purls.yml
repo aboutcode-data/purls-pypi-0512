@@ -1,3 +1,13 @@
 - pkg:pypi/bato-downloader@1.1.0
 - pkg:pypi/bato-downloader@2.0
 - pkg:pypi/bato-downloader@3.0
+- pkg:pypi/bato-downloader@4.0
+- pkg:pypi/bato-downloader@4.1
+- pkg:pypi/bato-downloader@4.5
+- pkg:pypi/bato-downloader@5.0
+- pkg:pypi/bato-downloader@5.1
+- pkg:pypi/bato-downloader@6.0.0
+- pkg:pypi/bato-downloader@7.0.0
+- pkg:pypi/bato-downloader@7.1
+- pkg:pypi/bato-downloader@7.2
+- pkg:pypi/bato-downloader@7.3
