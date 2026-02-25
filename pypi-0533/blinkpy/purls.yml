@@ -83,7 +83,11 @@
 - pkg:pypi/blinkpy@0.24.1
 - pkg:pypi/blinkpy@0.25.0
 - pkg:pypi/blinkpy@0.25.1
+- pkg:pypi/blinkpy@0.25.2
 - pkg:pypi/blinkpy@0.25.2b0
+- pkg:pypi/blinkpy@0.25.3
+- pkg:pypi/blinkpy@0.25.5
+- pkg:pypi/blinkpy@0.26.0b0
 - pkg:pypi/blinkpy@0.3.0
 - pkg:pypi/blinkpy@0.3.1
 - pkg:pypi/blinkpy@0.4.1

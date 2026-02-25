@@ -18,3 +18,6 @@
 - pkg:pypi/blobtk@0.5.8
 - pkg:pypi/blobtk@0.5.9
 - pkg:pypi/blobtk@0.6.0
+- pkg:pypi/blobtk@0.7.11
+- pkg:pypi/blobtk@0.7.12
+- pkg:pypi/blobtk@0.7.9
