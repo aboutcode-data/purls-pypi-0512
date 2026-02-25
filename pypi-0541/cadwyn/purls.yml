@@ -117,6 +117,14 @@
 - pkg:pypi/cadwyn@5.4.3
 - pkg:pypi/cadwyn@5.4.4
 - pkg:pypi/cadwyn@5.4.5
+- pkg:pypi/cadwyn@5.4.6
 - pkg:pypi/cadwyn@5.5.0
+- pkg:pypi/cadwyn@5.5.1
 - pkg:pypi/cadwyn@5.6.0
 - pkg:pypi/cadwyn@5.6.1
+- pkg:pypi/cadwyn@5.6.2
+- pkg:pypi/cadwyn@6.0.0
+- pkg:pypi/cadwyn@6.0.0rc1
+- pkg:pypi/cadwyn@6.0.1
+- pkg:pypi/cadwyn@6.0.2
+- pkg:pypi/cadwyn@6.0.3

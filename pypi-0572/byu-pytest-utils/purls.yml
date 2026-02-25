@@ -52,3 +52,5 @@
 - pkg:pypi/byu-pytest-utils@0.7.8
 - pkg:pypi/byu-pytest-utils@0.7.9
 - pkg:pypi/byu-pytest-utils@0.8.0
+- pkg:pypi/byu-pytest-utils@0.8.1
+- pkg:pypi/byu-pytest-utils@0.8.2
