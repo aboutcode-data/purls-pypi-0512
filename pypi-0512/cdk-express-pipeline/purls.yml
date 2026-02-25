@@ -12,3 +12,6 @@
 - pkg:pypi/cdk-express-pipeline@1.5.0
 - pkg:pypi/cdk-express-pipeline@1.6.0
 - pkg:pypi/cdk-express-pipeline@2.0.0
+- pkg:pypi/cdk-express-pipeline@2.1.0
+- pkg:pypi/cdk-express-pipeline@2.2.0
+- pkg:pypi/cdk-express-pipeline@2.3.0
