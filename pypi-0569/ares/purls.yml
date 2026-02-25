@@ -7,3 +7,6 @@
 - pkg:pypi/ares@0.6.1
 - pkg:pypi/ares@0.7.0
 - pkg:pypi/ares@0.7.1
+- pkg:pypi/ares@1.0.0
+- pkg:pypi/ares@1.0.1
+- pkg:pypi/ares@1.0.2
