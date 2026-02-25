@@ -75,6 +75,9 @@
 - pkg:pypi/check-jsonschema@0.34.0
 - pkg:pypi/check-jsonschema@0.34.1
 - pkg:pypi/check-jsonschema@0.35.0
+- pkg:pypi/check-jsonschema@0.36.0
+- pkg:pypi/check-jsonschema@0.36.1
+- pkg:pypi/check-jsonschema@0.36.2
 - pkg:pypi/check-jsonschema@0.4.0
 - pkg:pypi/check-jsonschema@0.4.1
 - pkg:pypi/check-jsonschema@0.5.0
