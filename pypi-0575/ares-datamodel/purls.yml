@@ -15,6 +15,10 @@
 - pkg:pypi/ares-datamodel@0.15.2b1
 - pkg:pypi/ares-datamodel@0.15.2b2
 - pkg:pypi/ares-datamodel@0.15.3b1
+- pkg:pypi/ares-datamodel@0.16.0
+- pkg:pypi/ares-datamodel@0.16.1
+- pkg:pypi/ares-datamodel@0.17.0
+- pkg:pypi/ares-datamodel@0.17.1
 - pkg:pypi/ares-datamodel@0.7.0b5
 - pkg:pypi/ares-datamodel@0.7.1b1
 - pkg:pypi/ares-datamodel@0.8.0b1
