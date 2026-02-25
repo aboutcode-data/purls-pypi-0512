@@ -1,0 +1,4 @@
+- pkg:pypi/clangd-tidy@1.0.0
+- pkg:pypi/clangd-tidy@1.1.0.post1
+- pkg:pypi/clangd-tidy@1.1.0.post2
+- pkg:pypi/clangd-tidy@1.1.1

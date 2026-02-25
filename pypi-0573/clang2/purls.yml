@@ -1,0 +1,9 @@
+- pkg:pypi/clang2@16.0.6
+- pkg:pypi/clang2@17.0.6
+- pkg:pypi/clang2@18.1.8
+- pkg:pypi/clang2@19.1.0
+- pkg:pypi/clang2@19.1.1
+- pkg:pypi/clang2@19.1.7
+- pkg:pypi/clang2@20.1.8
+- pkg:pypi/clang2@21.1.7
+- pkg:pypi/clang2@21.1.8.post0
