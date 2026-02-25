@@ -12,6 +12,7 @@
 - pkg:pypi/avocado-framework@110.0
 - pkg:pypi/avocado-framework@111.0
 - pkg:pypi/avocado-framework@112.0
+- pkg:pypi/avocado-framework@113.0
 - pkg:pypi/avocado-framework@35.0
 - pkg:pypi/avocado-framework@36.0
 - pkg:pypi/avocado-framework@36.3
