@@ -166,6 +166,15 @@
 - pkg:pypi/catalystwan@0.41.2.dev2
 - pkg:pypi/catalystwan@0.41.2.dev3
 - pkg:pypi/catalystwan@0.41.2.dev4
+- pkg:pypi/catalystwan@0.41.2.dev5
+- pkg:pypi/catalystwan@0.41.2.dev6
+- pkg:pypi/catalystwan@0.41.2.dev7
+- pkg:pypi/catalystwan@0.41.2.dev8
+- pkg:pypi/catalystwan@0.41.2.dev9
+- pkg:pypi/catalystwan@0.41.3
+- pkg:pypi/catalystwan@0.41.3.dev0
+- pkg:pypi/catalystwan@0.41.3.dev1
+- pkg:pypi/catalystwan@0.41.3.dev2
 - pkg:pypi/catalystwan@2.0.0a0
 - pkg:pypi/catalystwan@2.0.0a1
 - pkg:pypi/catalystwan@2.0.0a2
