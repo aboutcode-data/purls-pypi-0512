@@ -9,6 +9,11 @@
 - pkg:pypi/awslabs.aws-pricing-mcp-server@1.0.18
 - pkg:pypi/awslabs.aws-pricing-mcp-server@1.0.19
 - pkg:pypi/awslabs.aws-pricing-mcp-server@1.0.2
+- pkg:pypi/awslabs.aws-pricing-mcp-server@1.0.20
+- pkg:pypi/awslabs.aws-pricing-mcp-server@1.0.21
+- pkg:pypi/awslabs.aws-pricing-mcp-server@1.0.22
+- pkg:pypi/awslabs.aws-pricing-mcp-server@1.0.23
+- pkg:pypi/awslabs.aws-pricing-mcp-server@1.0.24
 - pkg:pypi/awslabs.aws-pricing-mcp-server@1.0.3
 - pkg:pypi/awslabs.aws-pricing-mcp-server@1.0.4
 - pkg:pypi/awslabs.aws-pricing-mcp-server@1.0.5
