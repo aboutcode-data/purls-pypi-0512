@@ -36,6 +36,8 @@
 - pkg:pypi/canopy@8.48
 - pkg:pypi/canopy@8.5
 - pkg:pypi/canopy@8.6
+- pkg:pypi/canopy@8.66
 - pkg:pypi/canopy@8.7
 - pkg:pypi/canopy@8.8
+- pkg:pypi/canopy@8.83
 - pkg:pypi/canopy@8.9

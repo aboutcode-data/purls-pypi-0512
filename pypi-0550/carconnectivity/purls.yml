@@ -1,4 +1,14 @@
 - pkg:pypi/carconnectivity@0.1
+- pkg:pypi/carconnectivity@0.10
+- pkg:pypi/carconnectivity@0.11
+- pkg:pypi/carconnectivity@0.11.1
+- pkg:pypi/carconnectivity@0.11.2
+- pkg:pypi/carconnectivity@0.11.3
+- pkg:pypi/carconnectivity@0.11.4
+- pkg:pypi/carconnectivity@0.11.5
+- pkg:pypi/carconnectivity@0.11.6
+- pkg:pypi/carconnectivity@0.11.7
+- pkg:pypi/carconnectivity@0.11.8
 - pkg:pypi/carconnectivity@0.1a1
 - pkg:pypi/carconnectivity@0.1a10
 - pkg:pypi/carconnectivity@0.1a12
