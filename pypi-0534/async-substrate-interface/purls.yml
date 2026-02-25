@@ -40,6 +40,7 @@
 - pkg:pypi/async-substrate-interface@1.5.12
 - pkg:pypi/async-substrate-interface@1.5.13
 - pkg:pypi/async-substrate-interface@1.5.14
+- pkg:pypi/async-substrate-interface@1.5.15
 - pkg:pypi/async-substrate-interface@1.5.2
 - pkg:pypi/async-substrate-interface@1.5.3
 - pkg:pypi/async-substrate-interface@1.5.4
@@ -48,3 +49,7 @@
 - pkg:pypi/async-substrate-interface@1.5.7
 - pkg:pypi/async-substrate-interface@1.5.8
 - pkg:pypi/async-substrate-interface@1.5.9
+- pkg:pypi/async-substrate-interface@1.6.0
+- pkg:pypi/async-substrate-interface@1.6.1
+- pkg:pypi/async-substrate-interface@1.6.2
+- pkg:pypi/async-substrate-interface@1.6.3

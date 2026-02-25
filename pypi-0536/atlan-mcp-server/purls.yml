@@ -13,3 +13,6 @@
 - pkg:pypi/atlan-mcp-server@0.2.8
 - pkg:pypi/atlan-mcp-server@0.2.9
 - pkg:pypi/atlan-mcp-server@0.3.0
+- pkg:pypi/atlan-mcp-server@0.3.1
+- pkg:pypi/atlan-mcp-server@0.3.2
+- pkg:pypi/atlan-mcp-server@0.3.3
