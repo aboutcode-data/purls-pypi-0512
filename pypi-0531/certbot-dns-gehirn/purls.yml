@@ -89,3 +89,5 @@
 - pkg:pypi/certbot-dns-gehirn@5.1.0
 - pkg:pypi/certbot-dns-gehirn@5.2.1
 - pkg:pypi/certbot-dns-gehirn@5.2.2
+- pkg:pypi/certbot-dns-gehirn@5.3.0
+- pkg:pypi/certbot-dns-gehirn@5.3.1
