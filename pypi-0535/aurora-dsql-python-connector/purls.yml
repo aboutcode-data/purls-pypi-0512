@@ -1,2 +1,6 @@
 - pkg:pypi/aurora-dsql-python-connector@0.1.1
 - pkg:pypi/aurora-dsql-python-connector@0.2.0
+- pkg:pypi/aurora-dsql-python-connector@0.2.1
+- pkg:pypi/aurora-dsql-python-connector@0.2.2
+- pkg:pypi/aurora-dsql-python-connector@0.2.5
+- pkg:pypi/aurora-dsql-python-connector@0.2.6
