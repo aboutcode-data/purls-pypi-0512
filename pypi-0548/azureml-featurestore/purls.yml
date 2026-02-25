@@ -11,3 +11,4 @@
 - pkg:pypi/azureml-featurestore@1.1.2
 - pkg:pypi/azureml-featurestore@1.2.0
 - pkg:pypi/azureml-featurestore@1.2.1
+- pkg:pypi/azureml-featurestore@1.2.2

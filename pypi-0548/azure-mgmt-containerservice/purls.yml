@@ -68,6 +68,7 @@
 - pkg:pypi/azure-mgmt-containerservice@40.2.0
 - pkg:pypi/azure-mgmt-containerservice@41.0.0b1
 - pkg:pypi/azure-mgmt-containerservice@41.0.0b2
+- pkg:pypi/azure-mgmt-containerservice@41.0.0b3
 - pkg:pypi/azure-mgmt-containerservice@5.0.0
 - pkg:pypi/azure-mgmt-containerservice@5.1.0
 - pkg:pypi/azure-mgmt-containerservice@5.2.0
