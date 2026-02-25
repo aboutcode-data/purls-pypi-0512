@@ -11,3 +11,6 @@
 - pkg:pypi/brightdata-sdk@1.1.2
 - pkg:pypi/brightdata-sdk@1.1.3
 - pkg:pypi/brightdata-sdk@2.0.0
+- pkg:pypi/brightdata-sdk@2.1.0
+- pkg:pypi/brightdata-sdk@2.1.1
+- pkg:pypi/brightdata-sdk@2.2.1
