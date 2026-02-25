@@ -23,3 +23,5 @@
 - pkg:pypi/aleph-sdk-python@2.0.5
 - pkg:pypi/aleph-sdk-python@2.1.0
 - pkg:pypi/aleph-sdk-python@2.2.0
+- pkg:pypi/aleph-sdk-python@2.3.0
+- pkg:pypi/aleph-sdk-python@2.3.1
