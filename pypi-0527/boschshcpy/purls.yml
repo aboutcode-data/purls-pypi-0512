@@ -46,7 +46,11 @@
 - pkg:pypi/boschshcpy@0.2.105
 - pkg:pypi/boschshcpy@0.2.106
 - pkg:pypi/boschshcpy@0.2.107
+- pkg:pypi/boschshcpy@0.2.108
+- pkg:pypi/boschshcpy@0.2.109
 - pkg:pypi/boschshcpy@0.2.11
+- pkg:pypi/boschshcpy@0.2.110
+- pkg:pypi/boschshcpy@0.2.111
 - pkg:pypi/boschshcpy@0.2.12
 - pkg:pypi/boschshcpy@0.2.13
 - pkg:pypi/boschshcpy@0.2.14
