@@ -11,6 +11,7 @@
 - pkg:pypi/asyncapi-python@0.2.3
 - pkg:pypi/asyncapi-python@0.2.4
 - pkg:pypi/asyncapi-python@0.2.5
+- pkg:pypi/asyncapi-python@0.3.0
 - pkg:pypi/asyncapi-python@0.3.0rc1
 - pkg:pypi/asyncapi-python@0.3.0rc10
 - pkg:pypi/asyncapi-python@0.3.0rc2
