@@ -46,6 +46,7 @@
 - pkg:pypi/bluequbit@0.17.0b1.post1
 - pkg:pypi/bluequbit@0.18.0b1
 - pkg:pypi/bluequbit@0.18.1b1
+- pkg:pypi/bluequbit@0.18.3b1
 - pkg:pypi/bluequbit@0.2.1b1
 - pkg:pypi/bluequbit@0.2.2b1
 - pkg:pypi/bluequbit@0.3.0b1
