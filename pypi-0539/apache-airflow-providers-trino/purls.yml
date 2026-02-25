@@ -110,4 +110,7 @@
 - pkg:pypi/apache-airflow-providers-trino@6.3.5rc1
 - pkg:pypi/apache-airflow-providers-trino@6.4.0
 - pkg:pypi/apache-airflow-providers-trino@6.4.0rc1
+- pkg:pypi/apache-airflow-providers-trino@6.4.1
 - pkg:pypi/apache-airflow-providers-trino@6.4.1rc1
+- pkg:pypi/apache-airflow-providers-trino@6.4.2
+- pkg:pypi/apache-airflow-providers-trino@6.4.2rc1

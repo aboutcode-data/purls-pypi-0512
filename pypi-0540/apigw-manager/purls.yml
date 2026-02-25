@@ -40,3 +40,6 @@
 - pkg:pypi/apigw-manager@4.1.0
 - pkg:pypi/apigw-manager@4.1.2
 - pkg:pypi/apigw-manager@4.2.0
+- pkg:pypi/apigw-manager@4.2.1
+- pkg:pypi/apigw-manager@4.2.2
+- pkg:pypi/apigw-manager@4.2.3
