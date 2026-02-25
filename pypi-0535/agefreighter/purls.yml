@@ -83,7 +83,12 @@
 - pkg:pypi/agefreighter@1.0.23
 - pkg:pypi/agefreighter@1.0.24
 - pkg:pypi/agefreighter@1.0.25
+- pkg:pypi/agefreighter@1.0.26
+- pkg:pypi/agefreighter@1.0.27
+- pkg:pypi/agefreighter@1.0.28
+- pkg:pypi/agefreighter@1.0.29
 - pkg:pypi/agefreighter@1.0.3
+- pkg:pypi/agefreighter@1.0.33
 - pkg:pypi/agefreighter@1.0.4
 - pkg:pypi/agefreighter@1.0.5
 - pkg:pypi/agefreighter@1.0.6
