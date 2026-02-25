@@ -38,6 +38,7 @@
 - pkg:pypi/bigdata-client@2.18.1
 - pkg:pypi/bigdata-client@2.18.2
 - pkg:pypi/bigdata-client@2.19.0
+- pkg:pypi/bigdata-client@2.19.1
 - pkg:pypi/bigdata-client@2.2.0
 - pkg:pypi/bigdata-client@2.3.0
 - pkg:pypi/bigdata-client@2.4.0
