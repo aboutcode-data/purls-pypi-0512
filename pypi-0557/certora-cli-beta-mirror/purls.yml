@@ -38,6 +38,7 @@
 - pkg:pypi/certora-cli-beta-mirror@8.0.0
 - pkg:pypi/certora-cli-beta-mirror@8.1.0
 - pkg:pypi/certora-cli-beta-mirror@8.1.1
+- pkg:pypi/certora-cli-beta-mirror@8.10.0
 - pkg:pypi/certora-cli-beta-mirror@8.2.0
 - pkg:pypi/certora-cli-beta-mirror@8.2.1
 - pkg:pypi/certora-cli-beta-mirror@8.2.2
@@ -53,3 +54,10 @@
 - pkg:pypi/certora-cli-beta-mirror@8.5.1
 - pkg:pypi/certora-cli-beta-mirror@8.6.0
 - pkg:pypi/certora-cli-beta-mirror@8.6.1
+- pkg:pypi/certora-cli-beta-mirror@8.6.2
+- pkg:pypi/certora-cli-beta-mirror@8.6.3
+- pkg:pypi/certora-cli-beta-mirror@8.6.4
+- pkg:pypi/certora-cli-beta-mirror@8.7.0
+- pkg:pypi/certora-cli-beta-mirror@8.8.0
+- pkg:pypi/certora-cli-beta-mirror@8.8.1
+- pkg:pypi/certora-cli-beta-mirror@8.9.0

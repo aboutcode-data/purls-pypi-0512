@@ -30,3 +30,5 @@
 - pkg:pypi/cfxdb@22.6.1
 - pkg:pypi/cfxdb@23.1.1
 - pkg:pypi/cfxdb@23.12.1
+- pkg:pypi/cfxdb@25.12.1
+- pkg:pypi/cfxdb@25.12.2
