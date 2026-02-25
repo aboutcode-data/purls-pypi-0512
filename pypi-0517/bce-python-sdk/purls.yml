@@ -53,6 +53,10 @@
 - pkg:pypi/bce-python-sdk@0.9.53
 - pkg:pypi/bce-python-sdk@0.9.54
 - pkg:pypi/bce-python-sdk@0.9.55
+- pkg:pypi/bce-python-sdk@0.9.56
+- pkg:pypi/bce-python-sdk@0.9.57
+- pkg:pypi/bce-python-sdk@0.9.59
 - pkg:pypi/bce-python-sdk@0.9.6
+- pkg:pypi/bce-python-sdk@0.9.60
 - pkg:pypi/bce-python-sdk@0.9.7
 - pkg:pypi/bce-python-sdk@0.9.9
