@@ -20,3 +20,5 @@
 - pkg:pypi/buildkite-test-collector@1.1.0
 - pkg:pypi/buildkite-test-collector@1.1.1
 - pkg:pypi/buildkite-test-collector@1.2.0
+- pkg:pypi/buildkite-test-collector@1.3.0
+- pkg:pypi/buildkite-test-collector@1.3.1

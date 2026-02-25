@@ -96,6 +96,8 @@
 - pkg:pypi/busy@7.14.4
 - pkg:pypi/busy@7.14.5
 - pkg:pypi/busy@7.14.6
+- pkg:pypi/busy@7.14.7
+- pkg:pypi/busy@7.14.8
 - pkg:pypi/busy@7.2.0
 - pkg:pypi/busy@7.2.1
 - pkg:pypi/busy@7.3.0

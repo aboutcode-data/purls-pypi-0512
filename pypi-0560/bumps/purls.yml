@@ -66,3 +66,5 @@
 - pkg:pypi/bumps@1.0.3b1
 - pkg:pypi/bumps@1.0.3rc0
 - pkg:pypi/bumps@1.0.3rc2
+- pkg:pypi/bumps@1.0.4b0
+- pkg:pypi/bumps@1.0.4b1
