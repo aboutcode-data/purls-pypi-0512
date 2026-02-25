@@ -52,6 +52,10 @@
 - pkg:pypi/aiohomeconnect@0.23.0
 - pkg:pypi/aiohomeconnect@0.23.1
 - pkg:pypi/aiohomeconnect@0.24.0
+- pkg:pypi/aiohomeconnect@0.25.0
+- pkg:pypi/aiohomeconnect@0.26.0
+- pkg:pypi/aiohomeconnect@0.27.0
+- pkg:pypi/aiohomeconnect@0.28.0
 - pkg:pypi/aiohomeconnect@0.3.0
 - pkg:pypi/aiohomeconnect@0.4.0
 - pkg:pypi/aiohomeconnect@0.5.0
