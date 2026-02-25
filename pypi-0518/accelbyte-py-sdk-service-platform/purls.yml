@@ -19,6 +19,7 @@
 - pkg:pypi/accelbyte-py-sdk-service-platform@0.25.0
 - pkg:pypi/accelbyte-py-sdk-service-platform@0.26.0
 - pkg:pypi/accelbyte-py-sdk-service-platform@0.27.0
+- pkg:pypi/accelbyte-py-sdk-service-platform@0.28.0
 - pkg:pypi/accelbyte-py-sdk-service-platform@0.3.0
 - pkg:pypi/accelbyte-py-sdk-service-platform@0.4.0
 - pkg:pypi/accelbyte-py-sdk-service-platform@0.5.0
