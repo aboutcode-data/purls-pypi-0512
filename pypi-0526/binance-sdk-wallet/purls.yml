@@ -6,3 +6,8 @@
 - pkg:pypi/binance-sdk-wallet@3.0.0
 - pkg:pypi/binance-sdk-wallet@4.0.0
 - pkg:pypi/binance-sdk-wallet@4.1.0
+- pkg:pypi/binance-sdk-wallet@5.0.0
+- pkg:pypi/binance-sdk-wallet@6.0.0
+- pkg:pypi/binance-sdk-wallet@7.0.0
+- pkg:pypi/binance-sdk-wallet@8.0.0
+- pkg:pypi/binance-sdk-wallet@8.1.0
